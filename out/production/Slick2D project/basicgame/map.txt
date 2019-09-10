@@ -1,0 +1,24 @@
+F: encounter
+intro: This be a big ol' gobby boi
+goblin: 10 7 7 gnoblin
+goblin: 20 12 12 big_gnoblin
+spider: 15 15 spoder
+
+T: conversation
+intro: say yes
+ yes: now say no
+  no: bye
+  yes: good, bye
+ no: lame, bye
+
+E: exit
+exit: map2.txt
+
+map:
+oooooooooo
+ooxxooxxoo
+ooxxooxxoo
+ooxxooxxoo
+ooxxooxxoo
+ooxxooxxoo
+ooTFoEoooo

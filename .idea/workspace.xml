@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8f1a6e48-4cff-4c31-86e4-3d443ec44cd9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Slick2D.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Text Adventure.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slick2D project/META-INF/Slick2D project.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slick2D project/basicgame/AdventureCommands.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slick2D project/basicgame/BasicWindow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slick2D project/basicgame/Console$Direction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slick2D project/basicgame/Console$InputState.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slick2D project/basicgame/Console$Pointer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slick2D project/basicgame/Console.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slick2D project/basicgame/EnemyHandler$TurnState1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slick2D project/basicgame/EnemyHandler$TurnState2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slick2D project/basicgame/EnemyHandler$UpdateState.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slick2D project/basicgame/EnemyHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slick2D project/basicgame/GameClass$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slick2D project/basicgame/GameClass$GameState.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slick2D project/basicgame/GameClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slick2D project/basicgame/Layout$Adventure.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slick2D project/basicgame/Layout$Combat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slick2D project/basicgame/Layout.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slick2D project/basicgame/Map$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slick2D project/basicgame/Map$BasicTile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slick2D project/basicgame/Map$ConversationTile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slick2D project/basicgame/Map$EncounterTile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slick2D project/basicgame/Map$EntranceTile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slick2D project/basicgame/Map$ExitTile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slick2D project/basicgame/Map$Tile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slick2D project/basicgame/Map$TileEventState.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slick2D project/basicgame/Map.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slick2D project/basicgame/MapLoader$MapParseException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slick2D project/basicgame/MapLoader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slick2D project/basicgame/Mob$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slick2D project/basicgame/Mob$EquippedWeapons.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slick2D project/basicgame/Mob.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slick2D project/basicgame/StateHandler$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slick2D project/basicgame/StateHandler$EndStateList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slick2D project/basicgame/StateHandler$State.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slick2D project/basicgame/StateHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slick2D project/basicgame/map.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slick2D project/basicgame/map2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slick2D project/objects/Ability$AbilityInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slick2D project/objects/Ability$GoblinBuff.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slick2D project/objects/Ability$Slam.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slick2D project/objects/Ability$SpiderWeb.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slick2D project/objects/Ability.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slick2D project/objects/Adventurer$UpdateState.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slick2D project/objects/Adventurer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slick2D project/objects/Item$Armor$Type.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slick2D project/objects/Item$Armor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slick2D project/objects/Item$Consumable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slick2D project/objects/Item$ItemInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slick2D project/objects/Item$Trinket.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slick2D project/objects/Item$Weapon$Type.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slick2D project/objects/Item$Weapon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slick2D project/objects/Item.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slick2D project/objects/Modifiers$Buff.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slick2D project/objects/Modifiers$Stat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slick2D project/objects/Modifiers$StatusEffect.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slick2D project/objects/Modifiers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slick2D project/objects/Monster$Goblin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slick2D project/objects/Monster$Spider.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slick2D project/objects/Monster.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slick2D project/objects/TileEvent$Conversation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slick2D project/objects/TileEvent$ConvoTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slick2D project/objects/TileEvent$Encounter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slick2D project/objects/TileEvent$GenericConversation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slick2D project/objects/TileEvent$TestConversation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slick2D project/objects/TileEvent$Type.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Slick2D project/objects/TileEvent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/engine/AdventureCommands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/engine/BasicWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/engine/Console.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/engine/EnemyHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/engine/GameClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/engine/Layout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/engine/Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/engine/MapLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/engine/Mob.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/engine/StateHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/engine/map.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/engine/map2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objects/Ability.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objects/Adventurer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objects/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objects/Modifiers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objects/Monster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objects/TileEvent.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>attack</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="NRLhIsPN" />
+  </component>
+  <component name="ProjectId" id="1QdWEbwdMpUadvyvCAekBJjHSK9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveMembersDialog.RECENTS_KEY">
+      <recent name="basicgame.Modifiers" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="objects" />
+      <recent name="combat" />
+    </key>
+    <key name="MoveInnerDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="GameClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="engine.GameClass" />
+      <module name="Text Adventure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="objects.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GameClass" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f1a6e48-4cff-4c31-86e4-3d443ec44cd9" name="Default Changelist" comment="" />
+      <created>1562747973471</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562747973471</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="Monster.monsterList" language="JAVA" custom="basicgame.Monster" />
+        <watch expression="tileMap" />
+        <watch expression="tileRegistry" language="JAVA" />
+        <watch expression="tileRegistry" language="JAVA" />
+        <watch expression="tileRegistry" language="JAVA" />
+        <watch expression="tileMap.get(2)" />
+        <watch expression="this" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>lineChars[x]=='T'</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>tile.getColor()==null</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="watch">
+      <expression>
+        <expression-string>gameClass.a</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>basicgame.Adventurer,basicgame.GameClass</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Monster.Goblin</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>basicgame.Monster</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Monster.monsterList</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>basicgame.Monster</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>monster.name == commandArray[1]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+</project>

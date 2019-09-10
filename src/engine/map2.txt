@@ -1,0 +1,10 @@
+H: entrance
+exit
+
+map:
+ooooooooooooo
+ooooooooooooo
+ooooooooooooo
+oooHooooooooo
+ooooooooooooo
+ooooooooooooo
